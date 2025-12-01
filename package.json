@@ -18,7 +18,8 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "@reduxjs/toolkit": "^2.4.0",
-    "react-redux": "^9.2.0"
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.26.2"
   },
   "devDependencies": {
     "@types/react": "^19.1.12",
